@@ -1,0 +1,8 @@
+# ninja log v5
+1	95	6878829551577346	build.ninja	82a5ba70c6667e4
+1	51	6878145962168870	CMakeFiles/Lab2.dir/sequence.c.obj	fdda128507c36123
+1	99	6878138695852260	CMakeFiles/Lab2.dir/fiboTree.c.obj	877cfedf7d392660
+1	49	6878201674075809	CMakeFiles/Lab2.dir/sequenceTree.c.obj	28b6016c55e1618d
+49	118	6878201674753988	Lab2.exe	df22ebf9e3c3e6d7
+1	51	6878196628955842	CMakeFiles/Lab2.dir/a2.c.obj	da0218a6723daf37
+0	46	6878196667136861	CMakeFiles/Lab2.dir/a3.c.obj	bf747f2f2307575b
